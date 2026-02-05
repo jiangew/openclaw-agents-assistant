@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Cointelegraph.com News</title>
+    <link>https://cointelegraph.com</link>
+    <atom:link href="https://cointelegraph.com/rss" rel="self" type="application/rss+xml"/>
+    <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+    <generator>cointelegraph.com</generator>
+    <lastBuildDate>Wed, 04 Feb 2026 13:11:43 +0000</lastBuildDate>
+    <language>en</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <title>Cointelegraph.com News</title>
+      <link>https://cointelegraph.com</link>
+      <url>https://cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+      <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
+    </image>
+    <item>
+      <title>Mercado Bitcoin expands LatAm RWA push with $20M in Rootstock private credit</title>
+      <pubDate>Wed, 04 Feb 2026 13:01:57 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/mercado-bitcoin-expands-latam-rwa-push</guid>
+      <link><![CDATA[https://cointelegraph.com/news/mercado-bitcoin-expands-latam-rwa-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg" alt="Mercado Bitcoin expands LatAm RWA push with $20M in Rootstock private credit" class="type:primaryImage"></p><p>Brazil’s Mercado Bitcoin has issued more than $20 million in tokenized private credit on Bitcoin sidechain Rootstock and is targeting $100 million by April.</p>]]></description>
+      <dc:creator>Cointelegraph by Christina Comben</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Bitcoin bounces to $76K, but onchain and technical data signal deeper downside</title>
+      <pubDate>Wed, 04 Feb 2026 12:11:57 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitcoin-bounces-76k-but-data-suggests-btc-price-downtrend-not-over</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitcoin-bounces-76k-but-data-suggests-btc-price-downtrend-not-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGYtOGU4NC03YjQ0LWJhZDctMGE4ZDk3OTYzZTMzLmpwZw==.jpg" alt="Bitcoin bounces to $76K, but onchain and technical data signal deeper downside" class="type:primaryImage"></p><p>Bitcoin’s rebound masks weak technicals and onchain signals that point to continued downside risk, with miners and exchange flows reinforcing the bearish trend.</p>]]></description>
+      <dc:creator>Cointelegraph by Nancy Lubale</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGYtOGU4NC03YjQ0LWJhZDctMGE4ZDk3OTYzZTMzLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGYtOGU4NC03YjQ0LWJhZDctMGE4ZDk3OTYzZTMzLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Canada’s CIRO formalizes interim crypto custody framework</title>
+      <pubDate>Wed, 04 Feb 2026 12:01:21 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/canada-ciro-interim-crypto-custody-framework</guid>
+      <link><![CDATA[https://cointelegraph.com/news/canada-ciro-interim-crypto-custody-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGUtYTUyZi03NGY5LTk3OTEtZWRkNWQ2ZDRlNmRlLmpwZw==.jpg" alt="Canada’s CIRO formalizes interim crypto custody framework" class="type:primaryImage"></p><p>The Canadian self-regulatory organization outlined custody limits, capital thresholds and reporting rules while long-term regulation remains in progress.</p>]]></description>
+      <dc:creator>Cointelegraph by Ezra Reguerra</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGUtYTUyZi03NGY5LTk3OTEtZWRkNWQ2ZDRlNmRlLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGUtYTUyZi03NGY5LTk3OTEtZWRkNWQ2ZDRlNmRlLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Arbitrum, Optimism and Base weigh in after Vitalik questions L2 scaling model</title>
+      <pubDate>Wed, 04 Feb 2026 11:18:12 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift</guid>
+      <link><![CDATA[https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4NzYtYzcxNy03YzBjLTk4YTItNGYwZDY5NmFlMGZlLmpwZw==.jpg" alt="Arbitrum, Optimism and Base weigh in after Vitalik questions L2 scaling model" class="type:primaryImage"></p><p>Base’s Jesse Pollak says L2s can’t be “Ethereum but cheaper” as builders respond to Vitalik Buterin’s call for specialization.</p>]]></description>
+      <dc:creator>Cointelegraph by Ezra Reguerra</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4NzYtYzcxNy03YzBjLTk4YTItNGYwZDY5NmFlMGZlLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4NzYtYzcxNy03YzBjLTk4YTItNGYwZDY5NmFlMGZlLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Tether trims $20B funding plan amid $500B valuation skepticism: Report</title>
+      <pubDate>Wed, 04 Feb 2026 11:16:27 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism</guid>
+      <link><![CDATA[https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGMtMjZlOC03ZWY1LTg2MDQtZWEyNWQ4YzA1YjZmLmpwZw==.jpg" alt="Tether trims $20B funding plan amid $500B valuation skepticism: Report" class="type:primaryImage"></p><p>Tether CEO Paolo Ardoino scaled back the company's $20 billion funding plan, calling the target a "misconception," while maintaining a $500 billion valuation.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGMtMjZlOC03ZWY1LTg2MDQtZWEyNWQ4YzA1YjZmLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGMtMjZlOC03ZWY1LTg2MDQtZWEyNWQ4YzA1YjZmLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Base says configuration change caused transaction delays, fixes issue</title>
+      <pubDate>Wed, 04 Feb 2026 10:56:06 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead</guid>
+      <link><![CDATA[https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGItNDU4MS03ZWE4LWE1ZDktN2Y0ZjE5MjkyMjdhLmpwZw==.jpg" alt="Base says configuration change caused transaction delays, fixes issue" class="type:primaryImage"></p><p>Base is rolling out month-long infrastructure upgrades aimed at preventing future transaction delays and improving overall network reliability.</p>]]></description>
+      <dc:creator>Cointelegraph by Amin Haqshanas</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGItNDU4MS03ZWE4LWE1ZDktN2Y0ZjE5MjkyMjdhLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4MGItNDU4MS03ZWE4LWE1ZDktN2Y0ZjE5MjkyMjdhLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Ethereum price: Classic chart pattern puts sub-$2K ETH in focus</title>
+      <pubDate>Wed, 04 Feb 2026 10:40:44 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k</guid>
+      <link><![CDATA[https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3YmEtMmRlNC03N2JhLWJlYzAtYzYxZTA4Y2FlYjIxLmpwZw==.jpg" alt="Ethereum price: Classic chart pattern puts sub-$2K ETH in focus" class="type:primaryImage"></p><p>Ether risks declining toward the $1,665-$1,725 range in February, according to a confluence of bearish technical and on-chain indicators.</p>]]></description>
+      <dc:creator>Cointelegraph by Yashu Gola</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3YmEtMmRlNC03N2JhLWJlYzAtYzYxZTA4Y2FlYjIxLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3YmEtMmRlNC03N2JhLWJlYzAtYzYxZTA4Y2FlYjIxLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Whale's $9B Bitcoin sale was not due to quantum concerns: Galaxy Digital</title>
+      <pubDate>Wed, 04 Feb 2026 10:35:35 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital</guid>
+      <link><![CDATA[https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg" alt="Whale's $9B Bitcoin sale was not due to quantum concerns: Galaxy Digital" class="type:primaryImage"></p><p>The firm addressed speculation that a multibillion-dollar client trade was motivated by concerns over Bitcoin’s resistance to future quantum computing advances.</p>]]></description>
+      <dc:creator>Cointelegraph by Zoltan Vardai</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Bitcoin ETF assets slip below $100B with fresh $272M outflows</title>
+      <pubDate>Wed, 04 Feb 2026 08:31:06 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg" alt="Bitcoin ETF assets slip below $100B with fresh $272M outflows" class="type:primaryImage"></p><p>Spot Bitcoin ETF AUM fell below $100 billion after $272 million in outflows, pushing year-to-date losses close to $1.3 billion.</p>]]></description>
+      <dc:creator>Cointelegraph by Helen Partz</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Bitwise to acquire crypto staking company Chorus One: Report</title>
+      <pubDate>Wed, 04 Feb 2026 07:47:32 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg" alt="Bitwise to acquire crypto staking company Chorus One: Report" class="type:primaryImage"></p><p>The reported acquisition comes as Ethereum staking demand surges, with more than 30% of ETH supply locked and validator wait times stretching beyond 70 days.</p>]]></description>
+      <dc:creator>Cointelegraph by Amin Haqshanas</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Aave winds down Avara, phases out Family wallet in DeFi refocus</title>
+      <pubDate>Wed, 04 Feb 2026 06:09:47 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi</guid>
+      <link><![CDATA[https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ZDQtNDIwMy03MGFjLTgzY2ItNTM3MmY3NGQ3MjA2LmpwZw==.jpg" alt="Aave winds down Avara, phases out Family wallet in DeFi refocus" class="type:primaryImage"></p><p>Aave says all current and future products will move under Aave Labs, while the Family wallet iOS app is wound down and user accounts remain supported.</p>]]></description>
+      <dc:creator>Cointelegraph by Jesse Coghlan</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ZDQtNDIwMy03MGFjLTgzY2ItNTM3MmY3NGQ3MjA2LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ZDQtNDIwMy03MGFjLTgzY2ItNTM3MmY3NGQ3MjA2LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Crypto.com launches standalone prediction market app ‘OG’</title>
+      <pubDate>Wed, 04 Feb 2026 05:40:52 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth</guid>
+      <link><![CDATA[https://cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRkZGItMmY4Ny03NGUxLWFkYWMtNTRjNzk0YTA1ODM3LmpwZw==.jpg" alt="Crypto.com launches standalone prediction market app ‘OG’" class="type:primaryImage"></p><p>Crypto.com has spun out its prediction markets business into a standalone platform after reporting explosive growth, entering a crowded but booming industry.</p>]]></description>
+      <dc:creator>Cointelegraph by Martin Young</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRkZGItMmY4Ny03NGUxLWFkYWMtNTRjNzk0YTA1ODM3LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRkZGItMmY4Ny03NGUxLWFkYWMtNTRjNzk0YTA1ODM3LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Polymarket, Kalshi clash over groceries as prediction markets boom</title>
+      <pubDate>Wed, 04 Feb 2026 05:10:57 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/polymarket-kalshi-giving-away-free-groceries-nyc</guid>
+      <link><![CDATA[https://cointelegraph.com/news/polymarket-kalshi-giving-away-free-groceries-nyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg" alt="Polymarket, Kalshi clash over groceries as prediction markets boom" class="type:primaryImage"></p><p>The grocery giveaways come as Kalshi and Polymarket lead prediction market trading volumes, which have recently exceeded $400 million per day.</p>]]></description>
+      <dc:creator>Cointelegraph by Brayden Lindrea</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Stablecoin ‘dust’ txs on Ethereum triple post-Fusaka: Coin Metrics</title>
+      <pubDate>Wed, 04 Feb 2026 04:39:59 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/ethereum-post-fusaka-dust-attacks-overstated-making-only-11-of-txs-research</guid>
+      <link><![CDATA[https://cointelegraph.com/news/ethereum-post-fusaka-dust-attacks-overstated-making-only-11-of-txs-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ODYtNjRjOC03YjkzLWE4MzUtNzY0YjE0ZTIyMzA0LmpwZw==.jpg" alt="Stablecoin ‘dust’ txs on Ethereum triple post-Fusaka: Coin Metrics" class="type:primaryImage"></p><p>Analysis of 227 million USDC and USDT balance updates found that 43% were dust transfers under $1, said Coin Metrics.</p>]]></description>
+      <dc:creator>Cointelegraph by Martin Young</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ODYtNjRjOC03YjkzLWE4MzUtNzY0YjE0ZTIyMzA0LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2ODYtNjRjOC03YjkzLWE4MzUtNzY0YjE0ZTIyMzA0LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Crypto dev launches website for agentic AI to ‘rent a human’</title>
+      <pubDate>Wed, 04 Feb 2026 04:06:16 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/crypto-dev-launches-website-for-agentic-ai-rent-a-human</guid>
+      <link><![CDATA[https://cointelegraph.com/news/crypto-dev-launches-website-for-agentic-ai-rent-a-human?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1ZGUtNzcxMC03ZjhlLWE0NTItYzNjODgyZTRmZDJjLmpwZw==.jpg" alt="Crypto dev launches website for agentic AI to ‘rent a human’" class="type:primaryImage"></p><p>The site lets users set an hourly rate for tasks from errands to business meetings. It was built using AI agents in a "Ralph loop," a form of vibe coding.</p>]]></description>
+      <dc:creator>Cointelegraph by Brian Quarmby</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1ZGUtNzcxMC03ZjhlLWE0NTItYzNjODgyZTRmZDJjLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1ZGUtNzcxMC03ZjhlLWE0NTItYzNjODgyZTRmZDJjLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Kraken parent Payward revenues jump 33% as crypto traders pile in</title>
+      <pubDate>Wed, 04 Feb 2026 03:13:28 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/kraken-parent-payward-revenues-jump-crypto-traders-flock-in</guid>
+      <link><![CDATA[https://cointelegraph.com/news/kraken-parent-payward-revenues-jump-crypto-traders-flock-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1YzUtMjdlOC03ODAzLThjZjYtOGE1M2Y3ZGI3ODE2LmpwZw==.jpg" alt="Kraken parent Payward revenues jump 33% as crypto traders pile in" class="type:primaryImage"></p><p>Kraken co-CEO Arjun Sethi said Payward’s revenues were “well balanced” in 2025, split almost evenly between trading and asset-based revenues.</p>]]></description>
+      <dc:creator>Cointelegraph by Jesse Coghlan</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1YzUtMjdlOC03ODAzLThjZjYtOGE1M2Y3ZGI3ODE2LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1YzUtMjdlOC03ODAzLThjZjYtOGE1M2Y3ZGI3ODE2LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Vitalik Buterin tempers vision for ETH L2s, pushes native rollups</title>
+      <pubDate>Wed, 04 Feb 2026 02:37:39 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin</guid>
+      <link><![CDATA[https://cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg" alt="Vitalik Buterin tempers vision for ETH L2s, pushes native rollups" class="type:primaryImage"></p><p>The Ethereum co-founder said many layer‑2s have failed to decentralize and continue to be mediated by multisig bridges instead of inheriting Ethereum’s security advantages.</p>]]></description>
+      <dc:creator>Cointelegraph by Brayden Lindrea</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>ETH funding rate turns negative, but US macro conditions mute buy signal</title>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/eth-funding-rate-turns-negative-but-us-macro-conditions-mute-the-buy-signal</guid>
+      <link><![CDATA[https://cointelegraph.com/news/eth-funding-rate-turns-negative-but-us-macro-conditions-mute-the-buy-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1OGEtZDU4My03ZWE4LWE2Y2YtYWJkOGY5MWEwZDMwLmpwZw==.jpg" alt="ETH funding rate turns negative, but US macro conditions mute buy signal" class="type:primaryImage"></p><p>Crypto traders usually view negative funding rates as a buy signal, but this week’s volatile US earnings outcome may cloud its value for ETH investors.</p>]]></description>
+      <dc:creator>Cointelegraph by Marcel Pechman</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1OGEtZDU4My03ZWE4LWE2Y2YtYWJkOGY5MWEwZDMwLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1OGEtZDU4My03ZWE4LWE2Y2YtYWJkOGY5MWEwZDMwLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Nevada authorities file lawsuit against Coinbase over unlicensed wagering</title>
+      <pubDate>Tue, 03 Feb 2026 21:39:11 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/nevada-enforcement-action-coinbase-wagering</guid>
+      <link><![CDATA[https://cointelegraph.com/news/nevada-enforcement-action-coinbase-wagering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1NDItMWVkNS03NGM1LWJlYjAtOTliYTcxYzdlNmQ1LmpwZw==.jpg" alt="Nevada authorities file lawsuit against Coinbase over unlicensed wagering" class="type:primaryImage"></p><p>The enforcement action over wagers on sports event contracts followed Coinbase announcing the launch of prediction markets in all 50 US states.</p>]]></description>
+      <dc:creator>Cointelegraph by Turner Wright</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1NDItMWVkNS03NGM1LWJlYjAtOTliYTcxYzdlNmQ1LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1NDItMWVkNS03NGM1LWJlYjAtOTliYTcxYzdlNmQ1LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Next Bitcoin accumulation phase may hinge on credit stress timing: Data</title>
+      <pubDate>Tue, 03 Feb 2026 21:24:41 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/next-bitcoin-accumulation-phase-may-hinge-on-credit-stress-timing-data</guid>
+      <link><![CDATA[https://cointelegraph.com/news/next-bitcoin-accumulation-phase-may-hinge-on-credit-stress-timing-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTVjNzMtM2U3MC03YzkyLTk3MzUtODg3NmMzZGU3MmE5.jpg" alt="Next Bitcoin accumulation phase may hinge on credit stress timing: Data" class="type:primaryImage"></p><p>Bitcoin’s volatility spiked, and its price plummeted to fresh lows as worrying US economic conditions emerged. Will credit stress data signal the next accumulation phase for BTC?</p>]]></description>
+      <dc:creator>Cointelegraph by Biraajmaan Tamuly</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTVjNzMtM2U3MC03YzkyLTk3MzUtODg3NmMzZGU3MmE5.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTVjNzMtM2U3MC03YzkyLTk3MzUtODg3NmMzZGU3MmE5.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Tian Ruixiang outlines 15,000-Bitcoin equity deal with strategic investor</title>
+      <pubDate>Tue, 03 Feb 2026 20:54:02 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/tian-ruixiang-plans-acquire-15-000-bitcoin-equity-linked-deal</guid>
+      <link><![CDATA[https://cointelegraph.com/news/tian-ruixiang-plans-acquire-15-000-bitcoin-equity-linked-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0ZjAtNzA5Yi03YmExLTlkNWEtNjY5ZWRmNjlhNzg0LmpwZw==.jpg" alt="Tian Ruixiang outlines 15,000-Bitcoin equity deal with strategic investor" class="type:primaryImage"></p><p>The Nasdaq-listed insurance brokerage said an unidentified investor would contribute Bitcoin in exchange for equity, alongside an AI- and crypto-focused partnership.</p>]]></description>
+      <dc:creator>Cointelegraph by Nate Kostar</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0ZjAtNzA5Yi03YmExLTlkNWEtNjY5ZWRmNjlhNzg0LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0ZjAtNzA5Yi03YmExLTlkNWEtNjY5ZWRmNjlhNzg0LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Trump expected to sign bill to end partial US government shutdown</title>
+      <pubDate>Tue, 03 Feb 2026 19:57:36 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/donald-trump-bill-end-partial-government-shutdown</guid>
+      <link><![CDATA[https://cointelegraph.com/news/donald-trump-bill-end-partial-government-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZlNGYtZDEwMi03ZDBmLWIzYTQtYTUyNDdkMzJmZGVj.jpg" alt="Trump expected to sign bill to end partial US government shutdown" class="type:primaryImage"></p><p>The US House of Representatives approved a bill on Tuesday that will fund most of the government through the end of September.</p>]]></description>
+      <dc:creator>Cointelegraph by Turner Wright</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZlNGYtZDEwMi03ZDBmLWIzYTQtYTUyNDdkMzJmZGVj.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZlNGYtZDEwMi03ZDBmLWIzYTQtYTUyNDdkMzJmZGVj.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Bitcoin loses $73K as US stocks sell off: Analyst says BTC price action not ‘abnormal’</title>
+      <pubDate>Tue, 03 Feb 2026 19:46:01 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitcoin-loses-dollar73k-us-stocks-sell-off-analyst-says-btc-trading-is-normal</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitcoin-loses-dollar73k-us-stocks-sell-off-analyst-says-btc-trading-is-normal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1MGMtNTlmNC03YWE3LTg5YjMtN2EzMjliYWRmNjg3LmpwZw==.jpg" alt="Bitcoin loses $73K as US stocks sell off: Analyst says BTC price action not ‘abnormal’" class="type:primaryImage"></p><p>Bitcoin fell under $73,000 as futures liquidations soared and worries over this week’s US corporate earnings triggered a stock sell-off. Will traders step in to buy “discounted” BTC?</p>]]></description>
+      <dc:creator>Cointelegraph by Antonio Oliveira</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1MGMtNTlmNC03YWE3LTg5YjMtN2EzMjliYWRmNjg3LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1MGMtNTlmNC03YWE3LTg5YjMtN2EzMjliYWRmNjg3LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <pubDate>Tue, 03 Feb 2026 19:18:42 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/what-happened-in-crypto-today</guid>
+      <link><![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg" alt="Here’s what happened in crypto today" class="type:primaryImage"></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>]]></description>
+      <dc:creator>Cointelegraph by Cointelegraph</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg" length="528" type="image/jpg"/>
+      <category>Trump memecoin</category>
+      <category>Solana memecoin</category>
+      <category>TRUMP token</category>
+      <category>Solana</category>
+      <category>SOL</category>
+      <category>Nova Labs</category>
+      <category>SEC</category>
+      <category>Securities and Exchange Commission</category>
+      <category>Crypto regulation</category>
+      <category>TRUMP rally</category>
+      <category>Bitcoin</category>
+    </item>
+    <item>
+      <title>Galaxy Digital reports $482M net loss in Q4 2025 amid crypto price slump</title>
+      <pubDate>Tue, 03 Feb 2026 18:25:29 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/galaxy-digital-losses-2025-report</guid>
+      <link><![CDATA[https://cointelegraph.com/news/galaxy-digital-losses-2025-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NDktZDg5OS03YjBkLTlhOWItYjFhYmZhMGUyODUwLmpwZw==.jpg" alt="Galaxy Digital reports $482M net loss in Q4 2025 amid crypto price slump" class="type:primaryImage"></p><p>The crypto company reported significant net losses to its balance sheet in 2025 due in part to “lower digital asset prices and approximately $160 million of one-time costs.“</p>]]></description>
+      <dc:creator>Cointelegraph by Turner Wright</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NDktZDg5OS03YjBkLTlhOWItYjFhYmZhMGUyODUwLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NDktZDg5OS03YjBkLTlhOWItYjFhYmZhMGUyODUwLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>VistaShares launches Treasury ETF with options-based Bitcoin exposure</title>
+      <pubDate>Tue, 03 Feb 2026 17:32:55 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/vistashares-treasury-etf-options-based-bitcoin-exposure</guid>
+      <link><![CDATA[https://cointelegraph.com/news/vistashares-treasury-etf-options-based-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmJlMTktM2UwYS03MzU5LWE1NGYtY2Y5ZmE1MGEyODM0LmpwZw==.jpg" alt="VistaShares launches Treasury ETF with options-based Bitcoin exposure" class="type:primaryImage"></p><p>The NYSE-listed BTYB allocates most of its assets to US Treasurys while using options strategies to provide weekly income and Bitcoin-linked exposure.</p>]]></description>
+      <dc:creator>Cointelegraph by Nate Kostar</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmJlMTktM2UwYS03MzU5LWE1NGYtY2Y5ZmE1MGEyODM0LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmJlMTktM2UwYS03MzU5LWE1NGYtY2Y5ZmE1MGEyODM0LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Spain to follow UK with proposal to ban social media for children under 16</title>
+      <pubDate>Tue, 03 Feb 2026 16:48:59 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/spain-ban-social-media-minors-security</guid>
+      <link><![CDATA[https://cointelegraph.com/news/spain-ban-social-media-minors-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NzYtOTI2ZS03ZDJjLWFkN2ItMmExYzdiZjFjNDhkLmpwZw==.jpg" alt="Spain to follow UK with proposal to ban social media for children under 16" class="type:primaryImage"></p><p>Pedro Sánchez announced that Spain would implement several changes to laws impacting social media platforms starting next week, with potential criminal liability for executives.</p>]]></description>
+      <dc:creator>Cointelegraph by Turner Wright</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NzYtOTI2ZS03ZDJjLWFkN2ItMmExYzdiZjFjNDhkLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NzYtOTI2ZS03ZDJjLWFkN2ItMmExYzdiZjFjNDhkLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Bitcoin, crypto ‘winter’ soon over, says Bitwise exec as gold retargets $5K</title>
+      <pubDate>Tue, 03 Feb 2026 16:36:29 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/bitcoin-crypto-winter-soon-over-bitwise-exec-gold-retargets-5k</guid>
+      <link><![CDATA[https://cointelegraph.com/news/bitcoin-crypto-winter-soon-over-bitwise-exec-gold-retargets-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NTEtYzdhMi03MzNkLTkyZDYtMzcwOTliZjNkZDNjLmpwZw==.jpg" alt="Bitcoin, crypto ‘winter’ soon over, says Bitwise exec as gold retargets $5K" class="type:primaryImage"></p><p>Bitcoin failed to attack $80,000 resistance as gold sought a $5,000 reclaim, while analysis argued that "crypto winter" began in January 2025.</p>]]></description>
+      <dc:creator>Cointelegraph by William Suberg</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NTEtYzdhMi03MzNkLTkyZDYtMzcwOTliZjNkZDNjLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0NTEtYzdhMi03MzNkLTkyZDYtMzcwOTliZjNkZDNjLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>World Liberty launches $3.4B stablecoin: How it fits into onchain credit systems</title>
+      <pubDate>Tue, 03 Feb 2026 16:01:04 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/world-liberty-launches-3-4b-stablecoin-how-it-fits-into-onchain-credit-systems</guid>
+      <link><![CDATA[https://cointelegraph.com/news/world-liberty-launches-3-4b-stablecoin-how-it-fits-into-onchain-credit-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0MzgtMzdhOC03MjEyLTk4ZDEtMzM1YjU2OWM4YzQ5LmpwZw==.jpg" alt="World Liberty launches $3.4B stablecoin: How it fits into onchain credit systems" class="type:primaryImage"></p><p>World Liberty launches a $3.4-billion stablecoin and lending platform, positioning it within onchain credit, collateralized loans and DeFi markets.</p>]]></description>
+      <dc:creator>Cointelegraph by Dilip Kumar Patairya</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0MzgtMzdhOC03MjEyLTk4ZDEtMzM1YjU2OWM4YzQ5LmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI0MzgtMzdhOC03MjEyLTk4ZDEtMzM1YjU2OWM4YzQ5LmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+    <item>
+      <title>Did Solana bottom at $100? SOL price charts hint at a 150% rally</title>
+      <pubDate>Tue, 03 Feb 2026 15:18:41 +0000</pubDate>
+      <guid isPermaLink="true">https://cointelegraph.com/news/did-solana-price-bottom-100-dollars-sol-price-charts-hint-rally</guid>
+      <link><![CDATA[https://cointelegraph.com/news/did-solana-price-bottom-100-dollars-sol-price-charts-hint-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]></link>
+      <description><![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzIzYWQtNzJlYi03ZGMzLWE1M2QtOTJkOTdhMTk2MjMzLmpwZw==.jpg" alt="Did Solana bottom at $100? SOL price charts hint at a 150% rally" class="type:primaryImage"></p><p>Solana price technicals suggest that the recent correction to $100 was a buy-the-dip opportunity as traders look for a recovery path toward $260.</p>]]></description>
+      <dc:creator>Cointelegraph by Nancy Lubale</dc:creator>
+      <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzIzYWQtNzJlYi03ZGMzLWE1M2QtOTJkOTdhMTk2MjMzLmpwZw==.jpg" medium="image"/>
+      <enclosure url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzIzYWQtNzJlYi03ZGMzLWE1M2QtOTJkOTdhMTk2MjMzLmpwZw==.jpg" length="528" type="image/jpg"/>
+    </item>
+  </channel>
+</rss>

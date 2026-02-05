@@ -1,0 +1,13 @@
+rank,title,price,volume,liquidity,expiry,link
+1,"MicroStrategy sells any Bitcoin by ___ ?",NA,NA,NA,NA,NA
+2,"What price will Bitcoin hit in 2026?",NA,NA,NA,NA,NA
+3,"MegaETH market cap (FDV) one day after launch?",NA,NA,NA,NA,NA
+4,"Will the price of Ethereum be above $2,500 on February 5?",NA,NA,NA,NA,NA
+5,"Will Bitcoin be above $80,000 on February 5?",NA,NA,NA,NA,NA
+# Meta
+# spec_version: 1.2
+# time_range: 2026-02-04..2026-02-04
+# scope: Crypto
+# sort: liquidity desc, volume desc
+# total_rows: 5
+# failures: Could not fetch data from Polymarket: Website access successful but retrieval and parsing failed. I followed v1.2 strict guidelines .
