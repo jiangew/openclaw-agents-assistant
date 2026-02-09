@@ -1,4 +1,4 @@
-# Multi-Agents Assistant based on OpenClaw and Discord Bot
+# Multi-Agents Assistant based on OpenClaw
 
 A local OpenClaw multi‑agent system for crypto market monitoring, integrated with a Discord bot. It collects KOL signals, prediction market data, and generates structured sentiment analysis reports.
 
@@ -15,28 +15,28 @@ Primary outputs:
 - `analysis_report.md`
 
 Specs and templates:
-- `/Users/jiangew/.openclaw/workspace/OUTPUT_SPEC.md`
-- `/Users/jiangew/.openclaw/workspace-x_kol_bot/OUTPUT_TEMPLATE.md`
-- `/Users/jiangew/.openclaw/workspace-polymarket_bot/OUTPUT_TEMPLATE.md`
-- `/Users/jiangew/.openclaw/workspace-crypto_analyst/OUTPUT_TEMPLATE.md`
+- `<OPENCLAW_HOME>/workspace/OUTPUT_SPEC.md`
+- `<OPENCLAW_HOME>/workspace-x_kol_bot/OUTPUT_TEMPLATE.md`
+- `<OPENCLAW_HOME>/workspace-polymarket_bot/OUTPUT_TEMPLATE.md`
+- `<OPENCLAW_HOME>/workspace-crypto_analyst/OUTPUT_TEMPLATE.md`
 
 ## Repo Layout
-- `/Users/jiangew/.openclaw/openclaw.json` OpenClaw config
-- `/Users/jiangew/.openclaw/clawbot/` Discord bot implementation
-- `/Users/jiangew/.openclaw/clawbot.config.json` Discord bot config
-- `/Users/jiangew/.openclaw/workspace-*` Agent workspaces
-- `/Users/jiangew/.openclaw/logs/` Gateway and bot logs
+- `<OPENCLAW_HOME>/openclaw.json` OpenClaw config
+- `<OPENCLAW_HOME>/clawbot/` Discord bot implementation
+- `<OPENCLAW_HOME>/clawbot.config.json` Discord bot config
+- `<OPENCLAW_HOME>/workspace-*` Agent workspaces
+- `<OPENCLAW_HOME>/logs/` Gateway and bot logs
 
 ## Discord Bot (clawbot)
 Cogs-based bot with config in root.
 
 Run manually:
 ```bash
-/Users/jiangew/.openclaw/.venv/bin/python /Users/jiangew/.openclaw/clawbot/clawbot.py
+<OPENCLAW_HOME>/.venv/bin/python <OPENCLAW_HOME>/clawbot/clawbot.py
 ```
 
 LaunchAgent (daemon) config:
-- `/Users/jiangew/Library/LaunchAgents/com.openclaw.clawbot.plist`
+- `~/Library/LaunchAgents/com.openclaw.clawbot.plist`
 
 Control:
 ```bash
@@ -56,7 +56,7 @@ openclaw gateway restart
 
 ## Agent Routing
 Current Discord binding routes to `main`:
-- `/Users/jiangew/.openclaw/openclaw.json` -> `bindings.agentId = "main"`
+- `<OPENCLAW_HOME>/openclaw.json` -> `bindings.agentId = "main"`
 
 From Discord, ask `main` to spawn sub‑agents, for example:
 - “启动 x_kol_bot 抓取 X 上的 KOL 内容”
@@ -81,10 +81,28 @@ flowchart TD
   GA --> GR["Routing Rules (bindings)"]
   GR --> M["main agent (orchestrator)"]
 
+  M --> C1["Context Loader"]
+  C1 --> SO["SOUL.md (behavior contract)"]
+  C1 --> US["USER.md (user prefs)"]
+  C1 --> MM["MEMORY.md (long-term)"]
+  C1 --> M
   M --> S1["sessions_spawn"]
+
   S1 --> XK["x_kol_bot (X/KOL collector)"]
   S1 --> PM["polymarket_bot (market collector)"]
   S1 --> CA["crypto_analyst (sentiment/report)"]
+
+  XK --> XKCTX["workspace-x_kol_bot/MEMORY.md"]
+  XKCTX --> XK
+  PM --> PMCTX["workspace-polymarket_bot/MEMORY.md"]
+  PMCTX --> PM
+  CA --> CACTX["workspace-crypto_analyst/MEMORY.md"]
+  CACTX --> CA
+
+  M --> SH["shared handoff notes"]
+  SH --> XK
+  SH --> PM
+  SH --> CA
 
   XK --> XF["x_feed.txt"]
   PM --> PC["polymarket.csv"]
@@ -94,21 +112,22 @@ flowchart TD
 
   AR --> QG["Output Quality Gate (validate_outputs.py)"]
   QG --> OK["Pass/Fail"]
+  QG --> REP["repair_outputs.py (if needed)"]
 ```
 
 ## Local Development
 Create venv and install dependencies:
 ```bash
-python3 -m venv /Users/jiangew/.openclaw/.venv
-/Users/jiangew/.openclaw/.venv/bin/python -m pip install discord.py
+python3 -m venv <OPENCLAW_HOME>/.venv
+<OPENCLAW_HOME>/.venv/bin/python -m pip install discord.py
 ```
 
 ## Quality Gate
 Validation scripts live in:
-- `/Users/jiangew/.openclaw/workspace/validate_outputs.py`
-- `/Users/jiangew/.openclaw/workspace/quality_gate.py`
-- `/Users/jiangew/.openclaw/workspace/repair_outputs.py`
+- `<OPENCLAW_HOME>/workspace/validate_outputs.py`
+- `<OPENCLAW_HOME>/workspace/quality_gate.py`
+- `<OPENCLAW_HOME>/workspace/repair_outputs.py`
 
 ## Notes
-- Ensure agent auth profiles are configured under each agent dir in `/Users/jiangew/.openclaw/agents/`.
+- Ensure agent auth profiles are configured under each agent dir in `<OPENCLAW_HOME>/agents/`.
 - If a provider key is missing, OpenClaw will emit `FailoverError` in gateway logs.
